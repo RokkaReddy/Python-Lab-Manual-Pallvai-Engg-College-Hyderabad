@@ -1,1 +1,1 @@
-# Python-Lab-Manual-Pallvai-Engg-College-Hyderabad
+# Python-Lab-Manual-Pallavi-Engg-College-Hyderabad
